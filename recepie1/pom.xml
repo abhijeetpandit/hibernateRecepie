@@ -27,4 +27,8 @@
 	    </plugins>
   </build>
   
+  <packaging>pom</packaging>
+  <modules>
+  	<module>recepie1</module>
+  </modules>
 </project>
