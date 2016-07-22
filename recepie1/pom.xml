@@ -30,5 +30,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>recepie1</module>
+  	<module>recepie-001</module>
   </modules>
 </project>
